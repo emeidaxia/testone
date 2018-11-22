@@ -5,7 +5,7 @@
 
 	<groupId>com.jingpei.pass</groupId>
 	<artifactId>dockerservice2</artifactId>
-	
+	<version>1.0</version>
 	<packaging>jar</packaging>
 
 	<name>dockerservice2</name>
