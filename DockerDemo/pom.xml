@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example</groupId>
-	<artifactId>DockerDemo</artifactId>
+	<artifactId>demodocker</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
-	<name>demo</name>
+	<name>demodocker</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>

@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.jingpei.test</groupId>
-	<artifactId>TestEureka</artifactId>
+	<artifactId>eureka</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
