@@ -1,0 +1,6 @@
+server:
+  port: 5002
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka:8760/eureka/
